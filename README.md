@@ -1,0 +1,2 @@
+# typescroipt
+typescript for angular
